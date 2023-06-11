@@ -2,7 +2,7 @@
 int main()
 {
 	
-	printf("igate solutions");
+	printf("nice computer education");
 	
 	return 0;
 }
